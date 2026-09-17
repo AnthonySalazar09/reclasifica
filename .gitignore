@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.jupyter/
+.ipynb_checkpoints/
+data/
+personal_images/
+*.log
+artifacts/*.pt
+!artifacts/model.pt

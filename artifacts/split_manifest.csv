@@ -1,0 +1,4 @@
+path,class,split
+examples/metal34.jpg,metal,test
+examples/paper149.jpg,papel_carton,test
+examples/plastic184.jpg,plastico,test

@@ -1,0 +1,12 @@
+{
+  "dataset": "TrashNet",
+  "authors": [
+    "Gary Thung",
+    "Mindy Yang"
+  ],
+  "url": "https://huggingface.co/datasets/garythung/trashnet/resolve/main/dataset-resized.zip",
+  "sha256": "c060e8abfe5d6de0578ca15be1ed8ad0794a865d333c3473d53d1d9ad6e38b8c",
+  "bytes": 42834870,
+  "license": "MIT",
+  "repository": "https://github.com/garythung/trashnet"
+}
